@@ -26,7 +26,7 @@
 				Hi! My name is Romeo and I love building things from scratch.
 			</p>
 			<img src="assets/images/icon1.png" class="img-fluid" id="profile">
-			<a href="mailto:marketing@zuitt.co" class="btn btn-secondary btn-sm mt-3">Let's Work Together</a>
+			<a href="mailto:marketing@zuitt.co" class="btn btn-secondary btn-sm">Let's Work Together</a>
 		</section>
 	</div>
 	<footer class="fixed-bottom">
